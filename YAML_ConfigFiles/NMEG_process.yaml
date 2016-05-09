@@ -1,0 +1,9 @@
+---
+# Environmental variable defining where flux data is stored
+NMEG_root_env   : FLUXROOT
+NMEG_data_dir   : \SiteData
+config_dir      : C:\\Code\NMEG_fluxproc_testing\YAML_Configfiles\
+anc_data_dir    : \AncillaryData
+timezone    : -7
+flux_meas_height  :
+...

@@ -1,0 +1,8 @@
+---
+config_site     : MCon_SS
+config_by_year  : false
+dataloggers  :
+  - 
+    7500_offset_back    : -6 inches
+    7500_offset_left    : 1.5 inches
+...
