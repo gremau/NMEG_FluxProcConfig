@@ -1,10 +1,17 @@
 ---
-config_site : MCon_SS
-short_name  : MCon_SS
-ameriflux_name   : US-Vcs
-latitude    : 35.919267
-longitude   : -106.614216
-elevation   : 2752
-timezone    : -7
-flux_meas_height    :
+config_site         : MCon_SS
+short_name          : MCon_SS
+ameriflux_name      : US-Vcs
+nmeg_number_old     : 13
+latitude            : 35.919267
+longitude           : -106.614216
+elevation           : 2752
+timezone            : -7.0
+canopy_height_m     : 
+op_irga_angle_deg   : 
+z_sonic_m           : 
+sonic_orientn_deg   :
+sonic_orientn_base  : 
+sonic_op_irga_sep_m : 
+sonic_cp_irga_sep_m :
 ...

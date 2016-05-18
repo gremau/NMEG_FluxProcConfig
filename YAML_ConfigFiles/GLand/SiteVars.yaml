@@ -1,10 +1,16 @@
 ---
-config_site : GLand
-short_name  : GLand
-ameriflux_name   : US-Seg
-latitude    :  34.362331
-longitude   : -106.701950
-elevation   : 1596
-timezone    : -7
-flux_meas_height  :
+config_site         : GLand
+short_name          : GLand
+ameriflux_name      : US-Seg
+nmeg_number_old     : 1
+latitude            :  34.362331
+longitude           : -106.701950
+elevation           : 1596
+timezone            : -7.0
+canopy_height_m     : 0.25
+op_irga_angle_deg   : 28.94
+z_sonic_m           : 3.2
+sonic_orientn_deg   : 180
+sonic_orientn_truen : true
+sonic_op_irga_sep_m : .191
 ...

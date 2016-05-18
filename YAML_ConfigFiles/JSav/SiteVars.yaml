@@ -1,10 +1,17 @@
 ---
-config_site : JSav
-short_name  : JSav
-ameriflux_name   : US-Wjs
-latitude    : 34.425489
-longitude   : -105.861545
-elevation   : 1931
-timezone    : -7
-flux_meas_height  :
+config_site         : JSav
+short_name          : JSav
+ameriflux_name      : US-Wjs
+nmeg_number_old     : 3
+latitude            : 34.425489
+longitude           : -105.861545
+elevation           : 1931
+timezone            : -7.0
+canopy_height_m     : 3
+op_irga_angle_deg   : 25
+z_sonic_m           : 10.35
+sonic_orientn_deg   : 225
+sonic_orientn_truen : true
+sonic_op_irga_sep_m : .2
+sonic_cp_irga_sep_m :
 ...
