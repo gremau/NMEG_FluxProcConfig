@@ -30,8 +30,10 @@ NaN,,NaN,Hs,current,current,current,current,current,current,current,current,curr
 NaN,,NaN,par_face_down_Avg,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,current,current,current,current,current,current,current,current,current
 NaN,,NaN,par_licor,par_Avg,par_Avg,par_Avg,par_Avg,par_Avg,par_Avg,par_Avg,par_Avg,par_Avg,par_Avg,dne,dne,dne,dne,dne,dne,dne,dne,dne
 NaN,,NaN,par_face_up_Avg,dne,dne,dne,dne,dne,par_lite_Avg,par_lite_Avg,par_lite_Avg,par_lite_Avg,par_lite_Avg,current,current,current,current,current,current,current,current,current
+NaN,,NaN,Rad_short_Dn_Avg,Rad_long_Up__Avg,Rad_long_Up__Avg,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current
+NaN,,NaN,Rad_short_Up_Avg,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current
 NaN,,NaN,Rad_long_Dn__Avg,current,current,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,Rad_long_Dn_Avg,current,current,current,current,current
-NaN,,NaN,Rad_long_Up__Avg,current,current,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,current,current,current,current,current
+NaN,,NaN,Rad_long_Up__Avg,Rad_short_Dn_Avg,Rad_short_Dn_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,Rad_long_Up_Avg,current,current,current,current,current
 NaN,,NaN,rho_a_mean_Avg,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,rho_a_mean,current,current,current,current,current
 NaN,,NaN,sig_lck_f_Tot,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current,current
 NaN,,NaN,low12V_3000_Tot,low12V,low12V,low12V,low12V,low12V,low12V,low12V,low12V,low12V,low12V,low12V,low12V,low12V,low12V,current,current,current,current,current
