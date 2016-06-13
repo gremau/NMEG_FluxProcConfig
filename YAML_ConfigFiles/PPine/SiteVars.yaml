@@ -1,10 +1,17 @@
 ---
-config_site : PPine
-short_name  : PPine
-ameriflux_name   : US-Vcp
-latitude    : 35.862360
-longitude   : -106.597430
-elevation   : 2501
-timezone    : -7
-flux_meas_height  :
+config_site         : PPine
+short_name          : PPine
+ameriflux_name      : US-Vcp
+nmeg_number_old     : 5
+latitude            : 35.862360
+longitude           : -106.597430
+elevation           : 2501
+timezone            : -7
+canopy_height_m     : 17.428
+op_irga_angle_deg   : 15.266
+z_sonic_m           : 24.02
+sonic_orientn_deg   : 329
+sonic_orientn_truen : true
+sonic_op_irga_sep_m : .15
+
 ...

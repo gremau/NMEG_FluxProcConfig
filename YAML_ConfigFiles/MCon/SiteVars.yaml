@@ -1,10 +1,16 @@
 ---
-config_site : MCon
-short_name  : MCon
-ameriflux_name   : US-Vcm
-latitude    : 35.888447
-longitude   : -106.532114
-elevation   : 3043
-timezone    : -7
-flux_meas_height    :
+config_site         : MCon
+short_name          : MCon
+ameriflux_name      : US-Vcm
+nmeg_name_old       : 6
+latitude            : 35.888447
+longitude           : -106.532114
+elevation           : 3043
+timezone            : -7.0
+canopy_height_m     : 16.56
+op_irga_angle_deg   : 71.66
+z_sonic_m           : 23.9
+sonic_orientn_deg   : 333
+sonic_orientn_truen : true
+sonic_op_irga_sep_m : .375
 ...
