@@ -1,0 +1,16 @@
+---
+config_site         : TestSite
+short_name          : TestSite
+ameriflux_name      : US-Test
+nmeg_number_old     : 14
+latitude            :  34.438450
+longitude           : -106.237694
+elevation           : 2196
+timezone            : -7.0
+canopy_height_m     : 4
+op_irga_angle_deg   : 19.3
+z_sonic_m           : 8.2
+sonic_orientn_deg   : 225
+sonic_orientn_truen : true
+sonic_op_irga_sep_m : .143
+...
