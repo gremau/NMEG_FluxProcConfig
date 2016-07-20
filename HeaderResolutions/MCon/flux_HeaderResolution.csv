@@ -73,6 +73,12 @@ NaN,SOILT_P2_5_AVG,NaN,SoilT_P2_5_Avg,dne,dne,dne,dne,dne,dne,current,current,cu
 NaN,SOILT_P2_10_AVG,NaN,SoilT_P2_10_Avg,dne,dne,dne,dne,dne,dne,current,current,current,current,current,current,current
 NaN,SOILT_P2_30_AVG,NaN,SoilT_P2_30_Avg,dne,dne,dne,dne,dne,dne,current,current,current,current,current,current,current
 NaN,SOILT_P2_60_AVG,NaN,SoilT_P2_60_Avg,dne,dne,dne,dne,dne,dne,current,current,current,current,current,current,current
+NaN,SWC_SAHRA_P1_D1,NaN,SWC_SAHRA_P1_D1,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne
+NaN,SWC_SAHRA_P1_D2,NaN,SWC_SAHRA_P1_D2,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne
+NaN,SWC_SAHRA_P1_D3,NaN,SWC_SAHRA_P1_D3,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne
+NaN,SOILT_SAHRA_P1_D1,NaN,SOILT_SAHRA_P1_D1,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne
+NaN,SOILT_SAHRA_P1_D2,NaN,SOILT_SAHRA_P1_D2,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne
+NaN,SOILT_SAHRA_P1_D3,NaN,SOILT_SAHRA_P1_D3,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne,dne
 NaN,,NaN,Soil_CO2_P1_5_Avg,dne,dne,dne,dne,dne,dne,current,current,current,current,current,current,current
 NaN,,NaN,Soil_CO2_P1_10_Avg,dne,dne,dne,dne,dne,dne,current,current,current,current,current,current,current
 NaN,,NaN,Soil_CO2_P1_30_Avg,dne,dne,dne,dne,dne,dne,current,current,current,current,current,current,current
