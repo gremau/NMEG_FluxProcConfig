@@ -4,22 +4,26 @@ config_by_year  : false
 fillTair  :
   - 
     siteType    : vcp
-    siteID      : 14    # Valles Caldera Redondo met stn (14)
+    siteID      : Redondo    # Valles Caldera Redondo met stn (14)
     linfit      : false
 fillrH    :
   - 
     siteType    : vcp
-    siteID      : 14
+    siteID      : Redondo
     linfit      : false
 fillRg    : 
   - 
     siteType    : vcp
-    siteID      : 14
+    siteID      : Redondo
     linfit      : true
 fillPrecip:
   - 
-    siteType    : snotel
-    siteID      : 1017  # Vacas Locas
+    siteType    : vcp
+    siteID      : Redondo
+    linfit      : false
+  - 
+    siteType    : prism
+    siteID      : US_Vcm
     linfit      : false
   #- 
     #siteType    : prism

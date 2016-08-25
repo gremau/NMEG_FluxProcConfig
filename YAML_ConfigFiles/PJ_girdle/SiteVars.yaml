@@ -1,6 +1,6 @@
 ---
 config_site         : PJ_girdle
-config_by_date      : true
+#config_by_date      : true
 short_name          : PJ_girdle
 ameriflux_name      : US-Mpg
 nmeg_number_old     : 10
@@ -9,24 +9,24 @@ longitude           : -106.213508
 elevation           : 2160
 timezone            : -7.0
 canopy_height_m     : 4
-op_irga_angle_deg   :
-    -
-      value     : 13.3
-      start_date: '2009-02-23 15:30'
-      end_date  : '2011-08-11 00:00'
-    -
-      value     : 16.71
-      start_date: '2011-08-11 00:30'
-      end_date  : None
-z_sonic_m           :
-    -
-      value     : 5.5
-      start_date: '2009-02-23 15:30'
-      end_date  : '2011-08-11 00:00'
-    -
-      value     : 6.5
-      start_date: '2011-08-11 00:30'
-      end_date  : None
+#op_irga_angle_deg   :
+    #    -
+#      value     : 13.3
+#      start_date: '2009-02-23 15:30'
+#      end_date  : '2011-08-11 00:00'
+          #    -
+#      value     : 16.71
+#      start_date: '2011-08-11 00:30'
+#      end_date  : None
+#z_sonic_m           :
+    #    -
+#      value     : 5.5
+#      start_date: '2009-02-23 15:30'
+#      end_date  : '2011-08-11 00:00'
+          #    -
+#      value     : 6.5
+#      start_date: '2011-08-11 00:30'
+#      end_date  : None
 
 sonic_orientn_deg   : 224
 sonic_orientn_truen : true
