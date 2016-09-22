@@ -6,7 +6,7 @@ creation_date=2015-07-21T10:24:47
 last_change_date=2016-05-18T11:59:12
 start_date=
 end_date=
-file_name=C:/Research_Flux_Towers/FluxProcConfig/EddyproMetadata/MCon_SS/MCon_SS_eddypro.metadata
+file_name=C:/Research_Flux_Towers/FluxProcConfig/EddyproMetadata/MCon_SS/MCon_SS_7200_eddypro.metadata
 sw_version=6.1.0
 ini_version=3.2.0
 
@@ -25,7 +25,7 @@ site_id=
 altitude=2752.0
 latitude=34.334944
 longitude=-106.744167
-canopy_height=1
+canopy_height=17.00
 displacement_height=0
 roughness_length=0
 
